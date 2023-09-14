@@ -28,6 +28,6 @@ The Discord bot works on the discord.py library which is a python and is super b
 ***
 It monitors every user on the server and can count how many messages they have sent in a specified amount of time and then act accordingly.
 ## Author
-***
+
 * **Aaryav Behl** - *Hobbyist*
 
