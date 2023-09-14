@@ -22,7 +22,7 @@
 
 ## Discord.py Library
 
-The Discord bot works on the discord.py library which is a python and is super beginner friendly to work on.
+The Discord bot works on the discord.py library which is a python library and is super beginner friendly to work on.
 
 ## How does the bot work?
 
